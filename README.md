@@ -2,13 +2,21 @@
 
 ### Sou Ruberval Brasileiro e seja bem vindo ao meu github.
 
-- 📚 Atualmente estou cursando Técnico em Desenvolvimento de Sistema (JAVA)-SENAC.
-- 😊Estou procurando estagio
-- 🔭 Atualmente estou trabalhando em comercio próprio.
-- 👯 I’m looking to collaborate on ...
-- 😄 Tenho interesse em: php, css
-- 💬 Ask me about ...
-- 📫 Como entrar em contato comigo: tekdsis40@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Sobre mim
 
+- 👨‍🎓 Atualmente estou cursando Técnico em Desenvolvimento de Sistema (JAVA)
+- 📘 Lendo: Java Como Programa 8
+- 🔭 Trabalho: Comercio próprio.
+- 🧳 Viajar: no meu tem livre com a família.
+- 😄 Tenho interesse em: php, css
+- 📫 Como entrar em contato comigo: tekdsis40@gmail.com 
+
+## Eu já trabalhei com...
+- Representação Comercial por mais de 20 anos.
+- 🛠 Demonstrador Técnico de Máquinas e Acessórios.
+- 🛒 Assistente de compras $$.
+
+## Cursos...
+-🏬 Técnico de Departamento pessoal´e fiscal.
+- $$ Calculadora HP12c.
+- 👪 Qualidade no Atendimento.
