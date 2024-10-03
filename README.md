@@ -5,9 +5,9 @@
 # Sobre mim
 
 - 👨‍🎓 Atualmente estou cursando Técnico em Desenvolvimento de Sistema (JAVA)
-- 📘 Lendo: Java Como Programa 8
+- 📘 Lendo: Java Como Programar 8
 - 🔭 Trabalho: Comercio próprio.
-- 🧳 Viajar: no meu tem livre com a família.
+- 🧳  Tempo Livre: Viajar com a família.
 - 😄 Tenho interesse em: php, css
 - 📫 Como entrar em contato comigo: tekdsis40@gmail.com 
 
@@ -17,6 +17,6 @@
 - 🛒 Assistente de compras $$.
 
 ## Cursos...
--🏬 Técnico de Departamento pessoal´e fiscal.
+-🏬 Técnico de Departamento pessoal e fiscal.
 - $$ Calculadora HP12c.
 - 👪 Qualidade no Atendimento.
