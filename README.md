@@ -1,22 +1,22 @@
-## Olá amigo(a) 👋
+## Olá, amigo(a) 👋
 
-### Sou Ruberval Brasileiro e seja bem vindo ao meu github.
+### Sou Ruberval Brasileiro e seja bem-vindo ao meu GitHub.
 
 # Sobre mim
 
-- 👨‍🎓 Atualmente estou cursando Técnico em Desenvolvimento de Sistema com a linguagem JAVA pelo Senac.
-- Com a experiência adquirida ao longo dos 48 anos de vida, sendo 33 anos deste no comércio, onde desempenhei diversas atividades, iniciando por: Vendedor, Encarregado de Loja, Assistente de Compras e por fim Representante Comercial por mais de vinte anos.
-- A representação comercial propiciou o exercício de outras habilidades em comunicação com o público nas realizações de palestras e treinamentos:
-Apresentação e Demonstração de Máquinas e Equipamentos entre outros produtos.
+- 👨‍🎓 Atualmente estou cursando Técnico em BACK-END JAVA SCRIPT pela Softex Recife (PE).
+- Com a experiência adquirida ao longo da vida, sendo 33 anos deste no comércio, onde desempenhei diversas atividades, iniciando por: Vendedor, Encarregado de Loja, Assistente de Compras e, por fim, Representante Comercial por mais de vinte anos.
+- A representação comercial propiciou o exercício de outras habilidades em comunicação com o público nas realizações de palestras e treinamentos.
+Apresentação e Demonstração de Máquinas e Equipamentos, entre outros produtos ligados à construção civil.
 
 1. Gestão de Tempo e Pressão: Sendo Representante Comercial, aprendi a lidar com diversos fatores que implicam no resultado final da venda, envolvendo os 3 atores: Cliente, Fábrica, Logística, considerando estes os principais dentre outros: tabela de preço, câmbio, prazos, etc.
-2. Habilidade de Comunicação: Vivenciando o mundocormercial, pude exercitar a comunicação desde a mais simples até a mais técnica, sendo primordial e altamente relevante para levar soluções aos usuários em segurança e manejo de ferramentas e equipamentos, fazendo com que todos trabalhem de forma colaborativa uns com os outros.
+2. Habilidade de Comunicação: Vivenciando o mundo cormercial, pude exercitar a comunicação desde a mais simples até a mais técnica, sendo primordial e altamente relevante para levar soluções aos usuários em segurança e manejo de ferramentas e equipamentos, fazendo com que todos trabalhem de forma colaborativa uns com os outros.
 3. Flexibilidade: Sendo hoje um microempreendedor que administro meu próprio negócio, entendo a necessidade de reagir rapidamente às modificações e atualizações que o mundo passa, e o mercado de tecnologia é essa porta dinâmica de transformação para um mundo melhor.
 
-- 🔭 Trabalho: Comercio próprio.
+- 🔭 Disponível: Para contratação, estágio.
 - 🧳  Tempo Livre: Viajar com a família.
-- 😄 Tenho interesse em: php, css
-- 📫 Como entrar em contato comigo: tekdsis40@gmail.com 
+- 😄 Tenho interesse em: PHP, Java Script.
+- 📫 Como entrar em contato comigo: [Minhas Credenciais](https://rubervalbrasileiro.github.io/credenciais/)
 
 ## Eu já trabalhei com...
 - Representação Comercial por mais de 20 anos.
@@ -24,7 +24,8 @@ Apresentação e Demonstração de Máquinas e Equipamentos entre outros produto
 - 🛒 Assistente de compras $$.
 
 ## Cursos...
--🏬 Técnico de Departamento Pessoal e Fiscal.
+- TDS Técnico em Desenvolvimento de Sistema 
+- 🏬 Técnico de Departamento Pessoal e Fiscal.
 -💲💲 Técnicas de Vendas.
 - 👪 Qualidade no Atendimento.
 
