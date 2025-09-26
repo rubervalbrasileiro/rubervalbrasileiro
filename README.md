@@ -1,29 +1,29 @@
-## Olá, amigo(a) 👋
+    ## Olá, amigo(a) 👋
 
-### Sou Ruberval Brasileiro e seja bem-vindo ao meu GitHub.
+    ### Sou Ruberval Brasileiro e seja bem-vindo ao meu GitHub.
 
-# Sobre mim
+    # Sobre mim
 
-- 👨‍🎓 Atualmente estou cursando 📚 **BACK-END** com 📚 **JavaScript** e 📘 **TypeScript** pela **Softex Recife (PE)**. 
+    - 👨‍🎓 Atualmente estou cursando 📚 **BACK-END** com 📚 **JavaScript** e 📘 **TypeScript** pela **Softex Recife (PE)**. 
 
-- 👨‍🎓 📚 Curso **LaTeX** (sistema de composição tipográfica) pela **FGV**, focado na criação de documentos de alta qualidade, especialmente científicos. O curso ensina a separar o conteúdo da formatação, permitindo a criação de documentos com uma estrutura robusta. 
+    - 👨‍🎓 📚 Curso **LaTeX** (sistema de composição tipográfica) pela **FGV**, focado na criação de documentos de alta qualidade, especialmente científicos. O curso ensina a separar o conteúdo da formatação, permitindo a criação de documentos com uma estrutura robusta. 
 
-- 🎯 O objetivo desta formação é estar pronto para atender às demandas da indústria na composição de documentos e manuais mais bem elaborados, considerando seu tamanho e complexidade.
+    - 🎯 O objetivo desta formação é estar pronto para atender às demandas da indústria na composição de documentos e manuais mais bem elaborados, considerando seu tamanho e complexidade.
 
-📈 É amplamente usado por matemáticos, físicos, e outras áreas científicas para a produção de livros, artigos, teses e outros documentos complexos.
+    📈 É amplamente usado por matemáticos, físicos, e outras áreas científicas para a produção de livros, artigos, teses e outros documentos complexos.
 
-- 💼 Com a experiência adquirida ao longo da vida, no comércio, onde desempenhei diversas atividades, iniciando como: Vendedor, Encarregado de Loja, Assistente de Compras e, por fim, Representante Comercial por mais de vinte anos.
-- 💰💹 A representação comercial 🚀propiciou o 🧘‍♀️exercício de outras habilidades em 🗣️ comunicação com o 🤝 público em palestras e treinamentos.
+    - 💼 Com a experiência adquirida ao longo da vida, no comércio, onde desempenhei diversas atividades, iniciando como: Vendedor, Encarregado de Loja, Assistente de Compras e, por fim, Representante Comercial por mais de vinte anos.
+    - 💰💹 A representação comercial 🚀propiciou o 🧘‍♀️exercício de outras habilidades em 🗣️ comunicação com o 🤝 público em palestras e treinamentos.
 
-- 👨‍🔧🧰 Apresentação e Demonstração de Máquinas e Equipamentos o uso destes com 🗜 segurança aos profissionais e consumidores finais entre outros produtos ligados a ⚙ industria, à construção civil, e 💲comercio de atacados, distribuídores e consumidores 👨‍👩‍👧‍👦finais.
+    - 👨‍🔧🧰 Apresentação e Demonstração de Máquinas e Equipamentos o uso destes com 🗜 segurança aos profissionais e consumidores finais entre outros produtos ligados a ⚙ industria, à construção civil, e 💲comercio de atacados, distribuídores e consumidores 👨‍👩‍👧‍👦finais.
 
 1. ⏰ Gestão de Tempo: Sendo Representante Comercial, aprendi a lidar com diversos fatores que implicam no resultado final da venda, envolvendo os 3 atores: Cliente, Fábrica, Logística, considerando estes os principais dentre outros: 🏷️tabela de preço, 💱câmbio, 📅prazos, etc.
 
-1.1 Pressão por Resultados: pelo prisma do cliente Atacado, Distribuidor e/ou 🛒consumidor final(🏷️preço, ✅qualidade, 📅cond. prazo, 🚲🏍️🚗🚌🚛🚈🚢✈entrega do seu pedido no menor tempo 💥).
+    1.1 Pressão por Resultados: pelo prisma do cliente Atacado, Distribuidor e/ou 🛒consumidor final(🏷️preço, ✅qualidade, 📅cond. prazo, 🚲🏍️🚗🚌🚛🚈🚢✈entrega do seu pedido no menor tempo 💥).
 
-1.2 Pressão por Resultados: pela ótica da industria (📈 aumento das vendas, 🎯metas a serem batidas, 🥊Concorrentes, (🎯mercado e 💵cambio), 🧺itens que não compõe a nossa região).
+    1.2 Pressão por Resultados: pela ótica da industria (📈 aumento das vendas, 🎯metas a serem batidas, 🥊Concorrentes, (🎯mercado e 💵cambio), 🧺itens que não compõe a nossa região).
 
-1.3 Pressão por Resultados: pela visão da Logistica(🚛fechamento de carga, 🗺️área de atuação geográfica, 🧭fechamento da rota por região de atuação sendo elas:➡️ 🔄 🏜️sertão, ↔ agreste🌳, ↔ interior zn. mata⛰️, ↔ 🔄🌊costeira e metropolitana🏙️,📍precisão nos dados de entrega🏬🏛️, 🕛pontualidade na entrega🏠, 🏷️tabela de 📦frete)
+    1.3 Pressão por Resultados: pela visão da Logistica(🚛fechamento de carga, 🗺️área de atuação geográfica, 🧭fechamento da rota por região de atuação sendo elas:➡️ 🔄 🏜️sertão, ↔ agreste🌳, ↔ interior zn. mata⛰️, ↔ 🔄🌊costeira e metropolitana🏙️,📍precisão nos dados de entrega🏬🏛️, 🕛pontualidade na entrega🏠, 🏷️tabela de 📦frete).
 
 2. Habilidade de Comunicação 🗣️: Vivenciando o mundo cormercial, pude exercitar a comunicação desde a mais simples 📝 até a mais técnica 📧, sendo primordial e altamente relevante para levar soluções aos 👀usuários em segurança e manejo de ferramentas e equipamentos, fazendo com que todos trabalhem de forma colaborativa uns com os outros.🔔
 
