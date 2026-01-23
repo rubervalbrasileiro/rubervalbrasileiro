@@ -7,7 +7,7 @@
 Olá, sou Desenvolvedor Back-End | Ex-Representante Comercial | Especialista em Documentação Técnica.
 Sou um profissional em transição de carreira, unindo 20 anos de experiência em representação comercial e gestão de negócios com a formação técnica em Desenvolvimento de Sistemas. Minha trajetória me proporcionou uma visão analítica sobre processos, logística e, principalmente, foco na solução de problemas para o cliente final.
 
-🛠️ Tecnologias e Habilidades
+## 🛠️ Tecnologias e Habilidades
 Back-End:
 
 Linguagens: Java, JavaScript (Node.js), TypeScript.
@@ -24,14 +24,14 @@ Comunicação Assertiva: Palestras, treinamentos e demonstrações técnicas par
 
 Resiliência e Metas: Carreira sólida pautada em resultados, gestão de prazos e adaptação a mudanças de mercado.
 
-💼 Trajetória Profissional em Resumo:
+## 💼 Trajetória Profissional em Resumo:
 Transição para TI (2023 à 2025): Técnico em Desenvolvimento de Sistemas com certificação em Java, MySql pelo Senac, e 2026 Back-End pela Aponti TIC (Softex) Recife.
 
 Representação Comercial (20+ anos): Atuação nos setores de construção civil e indústria, gerenciando desde a venda técnica até a logística de entrega e treinamento de usuários finais.
 
 Gestão de Negócios: Experiência como microempreendedor, o que me conferiu agilidade na tomada de decisão e visão administrativa.
 
-🎯 Objetivos e Interesses
+## 🎯 Objetivos e Interesses
 🔭 Disponível para: Contratação ou Estágio em Desenvolvimento Back-End.
 
 📊 Interesses de estudo: Geomarketing, Análise de Dados e Segurança da Informação.
