@@ -4,46 +4,44 @@
 
 # Sobre mim
 
-- 👨‍🎓 Atualmente estou cursando 📚 **BACK-END** com 📚 **JavaScript** e 📘 **TypeScript** pela **Softex Recife (PE)**. 
+Olá, sou Ruberval Brasileiro 👋
+Desenvolvedor Back-End | Ex-Representante Comercial | Especialista em Documentação Técnica
+Sou um profissional em transição de carreira, unindo 20 anos de experiência em representação comercial e gestão de negócios com a formação técnica em Desenvolvimento de Sistemas. Minha trajetória me proporcionou uma visão analítica sobre processos, logística e, principalmente, foco na solução de problemas para o cliente final.
 
-- 👨‍🎓 📚 Curso **LaTeX** (sistema de composição tipográfica) pela **FGV**, focado na criação de documentos de alta qualidade, especialmente científicos. O curso ensina a separar o conteúdo da formatação, permitindo a criação de documentos com uma estrutura robusta. 
+🛠️ Tecnologias e Habilidades
+Back-End:
 
-- 🎯 O objetivo desta formação é estar pronto para atender às demandas da indústria na composição de documentos e manuais mais bem elaborados, considerando seu tamanho e complexidade.
+Linguagens: Java, JavaScript (Node.js), TypeScript.
 
-📈 É amplamente usado por matemáticos, físicos, e outras áreas científicas para a produção de livros, artigos, teses e outros documentos complexos.
+Bancos de Dados: PostgreSQL, MySQL (Interesse em Segurança e Análise de Dados).
 
-- 💼 Com a experiência adquirida ao longo da vida, no comércio, onde desempenhei diversas atividades, iniciando como: Vendedor, Encarregado de Loja, Assistente de Compras e, por fim, Representante Comercial por mais de vinte anos.
-- 💰💹 A representação comercial 🚀propiciou o 🧘‍♀️exercício de outras habilidades em 🗣️ comunicação com o 🤝 público em palestras e treinamentos.
+Documentação: Especialista em LaTeX (FGV) para criação de manuais técnicos e documentos científicos de alta complexidade.
 
-- 👨‍🔧🧰 Apresentação e Demonstração de Máquinas e Equipamentos o uso destes com 🗜 segurança aos profissionais e consumidores finais entre outros produtos ligados a ⚙ industria, à construção civil, e 💲comercio de atacados, distribuídores e consumidores 👨‍👩‍👧‍👦finais.
+Soft Skills (Bagagem Comercial):
 
-1. ⏰ Gestão de Tempo: Sendo Representante Comercial, aprendi a lidar com diversos fatores que implicam no resultado final da venda, envolvendo os 3 atores: Cliente, Fábrica, Logística, considerando estes os principais dentre outros: 🏷️tabela de preço, 💱câmbio, 📅prazos, etc.
+Gestão de Stakeholders: Experiência real lidando com a tríade Cliente, Fábrica e Logística.
 
-    1.1 Pressão por Resultados: pelo prisma do cliente Atacado, Distribuidor e/ou 🛒consumidor final(🏷️preço, ✅qualidade, 📅cond. prazo, 🚲🏍️🚗🚌🚛🚈🚢✈entrega do seu pedido no menor tempo 💥).
+Comunicação Assertiva: Palestras, treinamentos e demonstrações técnicas para diversos públicos.
 
-    1.2 Pressão por Resultados: pela ótica da industria (📈 aumento das vendas, 🎯metas a serem batidas, 🥊Concorrentes, (🎯mercado e 💵cambio), 🧺itens que não compõe a nossa região).
+Resiliência e Metas: Carreira sólida pautada em resultados, gestão de prazos e adaptação a mudanças de mercado.
 
-    1.3 Pressão por Resultados: pela visão da Logistica(🚛fechamento de carga, 🗺️área de atuação geográfica, 🧭fechamento da rota por região de atuação sendo elas:➡️ 🔄 🏜️sertão, ↔ agreste🌳, ↔ interior zn. mata⛰️, ↔ 🔄🌊costeira e metropolitana🏙️,📍precisão nos dados de entrega🏬🏛️, 🕛pontualidade na entrega🏠, 🏷️tabela de 📦frete).
+💼 Trajetória Profissional em Resumo
+Transição para TI (2023 à 2025): Técnico em Desenvolvimento de Sistemas com certificação em Java, MySql pelo Senac e 2026 Back-End pela Aponti TIC (Softex) Recife.
 
-2. Habilidade de Comunicação 🗣️: Vivenciando o mundo cormercial, pude exercitar a comunicação desde a mais simples 📝 até a mais técnica 📧, sendo primordial e altamente relevante para levar soluções aos 👀usuários em segurança e manejo de ferramentas e equipamentos, fazendo com que todos trabalhem de forma colaborativa uns com os outros.🔔
+Representação Comercial (20+ anos): Atuação nos setores de construção civil e indústria, gerenciando desde a venda técnica até a logística de entrega e treinamento de usuários finais.
 
-3. Flexibilidade: Com a experência de um microempreendedor na administraçao do meu próprio negócio, entendo a necessidade de reagir rapidamente às modificações e atualizações que o mundo passa, e o mercado de tecnologia é essa porta dinâmica de transformação para um mundo melhor.
+Gestão de Negócios: Experiência como microempreendedor, o que me conferiu agilidade na tomada de decisão e visão administrativa.
 
-- 🔭 Disponível: Para contratação, estágio.
-- 🧳  Tempo Livre: Viajar com a família.
-- 😄 Tenho interesse em: 🌐Geomarketing, 📊Analise de dados, 🛢️Banco de dados, 🔐Segurança de dados.
-- 📫 Como entrar em contato comigo: [Minhas Credenciais](https://rubervalbrasileiro.github.io/credenciais/)
+🎯 Objetivos e Interesses
+🔭 Disponível para: Contratação ou Estágio em Desenvolvimento Back-End.
 
-## Eu já trabalhei com...
-- Representação Comercial no segmento da construção **civil**, na industria com máquinas industriais, profissionais e hobby ferrramentas por mais de 20 anos.
-- 🛠 Demonstrador Técnico de Máquinas e Acessórios.
-- 🛒 Assistente de compras $$.
+📊 Interesses de estudo: Geomarketing, Análise de Dados e Segurança da Informação.
 
-## Cursos...
-- **TDS** - Técnico em Desenvolvimento de Sistemas 
-- 🏬 Técnico de Departamento Pessoal e Fiscal.
--💲💲 Técnicas de Vendas.
-- 👪 Qualidade no Atendimento.
+✈️ No tempo livre: Viajar com a família.
+
+📫 Conecte-se comigo * LinkedIn
+[Minhas Credenciais](https://rubervalbrasileiro.github.io/credenciais/)
+
 
 ### Habilidades 👨🏻‍💻
 <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -51,8 +49,14 @@
 ## Banco de Dados 🛢️
 ![MYSQL](https://img.shields.io/badge/Mysql-192436?style=for-the-badge&logo=mysql&logoColor=6E99F5)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Ferramentas 🛠
+## Linguagens e Ferramentas 🛠
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
