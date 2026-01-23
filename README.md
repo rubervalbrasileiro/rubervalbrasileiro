@@ -4,8 +4,7 @@
 
 # Sobre mim
 
-Olá, sou Ruberval Brasileiro 👋
-Desenvolvedor Back-End | Ex-Representante Comercial | Especialista em Documentação Técnica
+Olá, sou Desenvolvedor Back-End | Ex-Representante Comercial | Especialista em Documentação Técnica
 Sou um profissional em transição de carreira, unindo 20 anos de experiência em representação comercial e gestão de negócios com a formação técnica em Desenvolvimento de Sistemas. Minha trajetória me proporcionou uma visão analítica sobre processos, logística e, principalmente, foco na solução de problemas para o cliente final.
 
 🛠️ Tecnologias e Habilidades
